@@ -6,8 +6,8 @@ At the moment the reading from the lidar are visualized using matplotlib. This i
 
 
 
-..* [Slamtec Lidar](http://www.slamtec.com/en/support#rplidar-a1)
+..*[Slamtec Lidar](http://www.slamtec.com/en/support#rplidar-a1)
 
-..* [and corresponding C++ SDK](https://github.com/Slamtec/rplidar_sdk)
+..*[and corresponding C++ SDK](https://github.com/Slamtec/rplidar_sdk)
 
-..* [Python library from Adafruits](https://learn.adafruit.com/slamtec-rplidar-on-pi/cpython-on-raspberry-pi)
+..*[Python library from Adafruits](https://learn.adafruit.com/slamtec-rplidar-on-pi/cpython-on-raspberry-pi)
