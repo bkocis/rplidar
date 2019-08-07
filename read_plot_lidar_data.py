@@ -34,7 +34,7 @@ def get_plot_data():
 			lidar_dist = scan_data
 			print(a)			
 			plot_lidar_rad(lidar_dist[:,0], lidar_dist[:,1])
-			scan_data = np.zeros((360,2))
+		#	scan_data = np.zeros((360,2))
 	 
 	 
 	except KeyboardInterrupt: 
@@ -47,7 +47,7 @@ if __name__=='__main__':
 	lidar.connect() 
 
 	sp =0.45
-	horizon = 2000 #[mm]
+	horizon = 2000 #14000 #2000 #[mm]
 	fig, ax  = plt.subplots(nrows=1,ncols=1, figsize=(5,5))
 
 
