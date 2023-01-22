@@ -2,7 +2,7 @@
 Interpreting the data from plana-rotary lidar
 ---------------------------------------------
 
-At the moment the reading from the lidar are visualized using matplotlib. This is, ofcource too slow for meamingful evaluation.
+At the moment the reading from the lidar are visualized using matplotlib. This is, off cource too slow for meamingful evaluation.
 
 
 
